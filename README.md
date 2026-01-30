@@ -19,12 +19,12 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/[YOUR_USERNAME]/[BEST_REPO]">
+      <a href="https://github.com/rafi4204/android-compose-template">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafi4204&repo=android-compose-template&theme=tokyonight" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/[YOUR_USERNAME]/[SECOND_BEST]">
+      <a href="https://github.com/rafi4204/SSL-Pinning-Android">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafi4204&repo=SSL-Pinning-Android&theme=tokyonight" />
       </a>
     </td>
