@@ -16,9 +16,9 @@
 📍 **Location:** Dhaka, Bangladesh 🇧🇩  
 
 💬 **Ask me about**:  
+- Modern UI with **Jetpack Compose** 🚀
 - Android Development (Kotlin/Java) 🤖  
 - Dependency Injection (Hilt/Dagger) 💉  
-- Networking (Retrofit) 🌐  
 - Cross-platform with Flutter 💙  
 
 ---
@@ -27,6 +27,7 @@
 
 ### Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -41,10 +42,10 @@
 ## ⭐ Featured Projects
 
 ### [Android Compose Template](https://github.com/rafi4204/android-compose-template)
-> A modern template for Jetpack Compose projects featuring Clean Architecture.
+> A modern template for Jetpack Compose projects featuring Clean Architecture and MVI/MVVM.
 
 ### [SSL Pinning Android](https://github.com/rafi4204/SSL-Pinning-Android)
-> Implementation guide and sample for enhancing mobile security via SSL Pinning.
+> Implementation guide and sample for enhancing mobile security via SSL Pinning in OkHttp.
 
 ---
 
