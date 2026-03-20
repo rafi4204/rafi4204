@@ -49,7 +49,4 @@
 
 ---
 
-## 📊 Stats
-![Rafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafi4204&show_icons=true&theme=tokyonight)
-
 [![Check out rafi4204's profile on stardev.io](https://stardev.io/developers/rafi4204/badge/languages/locality.svg)](https://stardev.io/developers/rafi4204)
